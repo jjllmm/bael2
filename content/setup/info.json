@@ -4,7 +4,7 @@
   "siteicon": "/images/uploads/icon.png",
   "showmenu": false,
   "emailsignup": true,
-  "altlayout": true,
+  "altlayout": false,
   "menu": [
     {
       "name": "jake101",
@@ -22,5 +22,5 @@
       "link": "https://www.netlify.com/"
     }
   ],
-  "linkcolor": "#f10606"
+  "linkcolor": "#000000"
 }
