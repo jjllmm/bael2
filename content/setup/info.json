@@ -2,9 +2,9 @@
   "sitename": "Bael",
   "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
   "siteicon": "/images/uploads/icon.png",
-  "showmenu": true,
+  "showmenu": false,
   "emailsignup": true,
-  "altlayout": false,
+  "altlayout": true,
   "menu": [
     {
       "name": "jake101",
@@ -21,5 +21,6 @@
       "position": "3",
       "link": "https://www.netlify.com/"
     }
-  ]
+  ],
+  "linkcolor": "#f10606"
 }
