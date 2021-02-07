@@ -32,10 +32,10 @@
           </ul>
         </div>
       </div>
-      <!--div class="xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
+      <div class="xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
         :class="signupAboutSize"
       >
-        <div class="item">
+        <!--div class="item">
           <div class="footer__heading xs-mb2">Deploy</div>
 
           <a
@@ -47,8 +47,8 @@
               title="Deploy to Netlify"
             />
           </a>
-        </div>
-      </div-->
+        </div-->
+      </div>
       <div class="c-12 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none">
         <div class="item xs-text-6">
           <a href="#">Hermine</a>
