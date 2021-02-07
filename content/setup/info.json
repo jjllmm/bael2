@@ -10,16 +10,6 @@
       "name": "jake101",
       "position": "1",
       "link": "https://www.jake101.com/"
-    },
-    {
-      "name": "Nuxt.js",
-      "position": "2",
-      "link": "https://www.nuxtjs.org/"
-    },
-    {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
     }
   ],
   "linkcolor": "#000000"
