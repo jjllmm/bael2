@@ -77,6 +77,7 @@ nav {
   text-transform: capitalize;
   font-weight: 800;
   font-size: 18px;
+  letter-spacing: 2px;
 }
 @media only screen and (max-width: 40rem) {
   .results {
