@@ -212,7 +212,7 @@ export default {
   transform: scale(0.5);
   margin-right: 0px;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 0.08em;
   color: #000;
   cursor: pointer;
