@@ -1,6 +1,6 @@
 <template>
   <div :class="['xs-text-6 md-text-5 bael-grid', {paginated: hasPagination}]">
-<div class="c-12 sm-border-top xs-p2 xs-text-6 titlebar">
+<div class="c-12 sm-border-top sm-border sm-border-bottom xs-p2 xs-text-6 titlebar topsituated">
         <div class="item"><a href="https://github.com/jake-101/bael-template">Bael</a> <span class="small-txt">1.0 dev</span>, An open source design by
         <a href="https://jake101.com">jake101</a>
         </div>
@@ -55,5 +55,9 @@ export default {
 .bael-grid .intersected.bcg-item {
   opacity: 1;
   transition: 0.2s opacity ease-out;
+}
+.topsituated
+{
+  top: 63px;
 }
 </style>
