@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2018-07-07T03:00:50-07:00
-thumbnail: /images/uploads/hermine-...-.png
+thumbnail: ""
 ---
 # Hermine periodically publishes the thoughts and reflexions of authors from different backgrounds, but that all have in common to approach intimately and in transversal ways, things they consider to be central.
 
