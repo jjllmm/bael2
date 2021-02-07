@@ -1,8 +1,8 @@
 {
   "sitename": "HERMINE",
   "sitedescription": "Tangent thoughts about central things",
-  "siteicon": "/images/uploads/h.png",
-  "showmenu": false,
+  "siteicon": "/images/uploads/he.png",
+  "showmenu": true,
   "emailsignup": true,
   "altlayout": false,
   "menu": [
