@@ -52,16 +52,7 @@ export default {
   transition: 0.2s opacity ease-out;
 }
 
-.xs-border-top {
-  border-right: 1px solid rgb(0, 0, 0) !important
-}
-.xs-border-bottom {
-  border-bottom: 1px solid rgb(0, 0, 0) !important
-}
-.sm-border-right {
-  border-right: 1px solid rgb(0, 0, 0) !important
-}
-.xs-border-right {
+.xs-border {
   border-right: 1px solid rgb(0, 0, 0) !important
 }
 </style>
