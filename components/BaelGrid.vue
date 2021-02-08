@@ -51,8 +51,7 @@ export default {
   opacity: 1;
   transition: 0.2s opacity ease-out;
 }
-.topsituated
-{
-  top: 63px;
+.xs-border {
+  border: 1px solid rgb(0, 0, 0) !important
 }
 </style>
