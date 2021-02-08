@@ -113,4 +113,7 @@ footer .item:hover .footer__heading {
 .pagination__button--disabled {
   pointer-events: none;
 }
+.xs-border {
+  border: 1px solid rgb(0, 0, 0) !important
+}
 </style>
