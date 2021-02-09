@@ -8,7 +8,7 @@
       </div>
 
       <div
-        class="c-4 xs-border-top xs-border-bottom sm-border-bottom-none sm-border-top-none sm-border-left-none sm-border-right xs-p2"
+        class="c-4 sm-border-bottom-none sm-border-top-none sm-border-left-none sm-border-right xs-p2"
       >
         <div class="item xs-flex">
           <lazy-bael-search />
