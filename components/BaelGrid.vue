@@ -55,4 +55,7 @@ export default {
 .xs-border-right {
   border-right: 1px solid rgb(0, 0, 0) !important
 }
+.xs-border-bottom {
+  border-bottom: 1px solid rgb(0, 0, 0) !important
+}
 </style>
