@@ -5,7 +5,7 @@
         v-intersect
         v-for="(p,i) in posts"
         :key="i"
-        class="xs-border-right xs-p2 bcg-item"
+        class="xs-border-right xs-border-bottom xs-p2 bcg-item"
         :style="`transition-delay:0.${i * .5}s`"
       >
         <div class="item xs-block xs-full-height xs-flex">
