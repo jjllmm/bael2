@@ -5,7 +5,7 @@
         v-intersect
         v-for="(p,i) in posts"
         :key="i"
-        class="xs-p2 bcg-item xs-border-right xs-border-bottom"
+        class="xs-p2 bcg-item xs-border-right xs-border-bottom xs-border-top-none xs-border-left-none"
         :style="`transition-delay:0.${i * .5}s`"
       >
         <div class="item xs-block xs-full-height xs-flex">
@@ -59,9 +59,12 @@ export default {
   border-bottom: 1px solid rgb(0, 0, 0) !important
 }
 .xs-border-top-none {
-  border-bottom: none !important
+  border-top: none !important
 }
 .xs-border-left-none {
-  border-bottom: none !important
+  border-left: none !important
+}
+.sm-border-right {
+  border: none !important
 }
 </style>
