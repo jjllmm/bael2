@@ -233,11 +233,7 @@ export default {
 .bael-slideout-menu-item,
 .bael-slideout-menu-item--small {
   text-transform: uppercase;
-}
-
-.bael-slideout-menu-item--small {
   font-weight: 800;
-  text-transform: uppercase;
 }
 
 .bael-slideout-menu-item--small a {
@@ -250,10 +246,10 @@ export default {
   &:focus,
   :active {
     background: var(--active-bg);
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 .bael-slideout-menu-item--small a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 </style>
