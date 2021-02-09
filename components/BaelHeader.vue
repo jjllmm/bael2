@@ -1,7 +1,7 @@
 <template>
   <nav ref="navBar" :data-nav="`${pagetitle}`" id="navbar">
     <div class="r xs-border-bottom">
-      <div class="c-4 xs-text-left xs-p2 sm-border-right">
+      <div class="c-4 xs-text-left xs-p2 sm-border-bottom-none sm-border-top-none sm-border-left-none sm-border-right">
         <div class="item">
           <nuxt-link class="sitename" to="/" exact>{{$store.state.info.sitename}}</nuxt-link>
         </div>
