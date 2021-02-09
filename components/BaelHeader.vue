@@ -82,6 +82,9 @@ nav {
 .sm-border-right {
   border: 1px solid rgb(0, 0, 0) !important
 }
+.xs-border-bottom {
+  border: 1px solid rgb(0, 0, 0) !important
+}
 @media only screen and (max-width: 40rem) {
   .results {
     width: 94vw;
