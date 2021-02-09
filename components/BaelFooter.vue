@@ -116,10 +116,10 @@ footer .item:hover .footer__heading {
 .xs-border {
   border: 1px solid rgb(0, 0, 0) !important
 }
-.xs-border-left-none {
+.xs-border-right-none {
   border-left: none !important
 }
-.xs-border-top-none {
-  border: none !important
+.xs-border-bottom-none {
+  border-bottom: none !important
 }
 </style>
