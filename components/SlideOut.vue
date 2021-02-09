@@ -242,7 +242,6 @@ export default {
 
 .bael-slideout-menu-item--small a {
   cursor: pointer;
-  border-top: 1px solid #666;
   display: block;
   padding: 0.5rem 0.3rem;
   &:hover {
@@ -251,9 +250,10 @@ export default {
   &:focus,
   :active {
     background: var(--active-bg);
+    text-decoration: underline;
   }
 }
 .bael-slideout-menu-item--small a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 </style>
