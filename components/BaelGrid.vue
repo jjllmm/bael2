@@ -53,6 +53,12 @@ export default {
 }
 
 .xs-border {
-  border-right: 1px solid rgb(0, 0, 0) !important
+  border: 1px solid rgb(0, 0, 0) !important
+}
+.xs-border-top-none {
+  border-top: 1px solid rgb(0, 0, 0) !important
+}
+.xs-border-left-none {
+  border-left: 1px solid rgb(0, 0, 0) !important
 }
 </style>
