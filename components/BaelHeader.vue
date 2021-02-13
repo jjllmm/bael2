@@ -1,14 +1,14 @@
 <template>
   <nav ref="navBar" :data-nav="`${pagetitle}`" id="navbar">
     <div class="r xs-border-bottom">
-      <div class="c-4 xs-text-left xs-p2 sm-border-bottom-none sm-border-top-none sm-border-left-none sm-border-right">
+      <div class="c-4 xs-text-left xs-p2 sm-border-bottom-none sm-border-top-none sm-border-left-none border-right">
         <div class="item">
           <nuxt-link class="sitename" to="/" exact>{{$store.state.info.sitename}}</nuxt-link>
         </div>
       </div>
 
       <div
-        class="c-4 sm-border-bottom-none sm-border-top-none sm-border-left-none sm-border-right xs-p2"
+        class="c-4 sm-border-bottom-none sm-border-top-none sm-border-left-none border-right xs-p2"
       >
         <div class="item xs-flex">
           <lazy-bael-search />
@@ -56,9 +56,6 @@ export default {
   overflow-x: none;
   border-top: 1px solid rgb(0, 0, 0) !important
 }
-.c-4 {
-border-right: 1px solid rgb(0, 0, 0) !important
-}
 .item {
   overflow-x: none;
 }
@@ -86,7 +83,7 @@ nav {
   font-size: 18px;
   letter-spacing: 2px;
 }
-.sm-border-right {
+.border-right {
   border: 1px solid rgb(0, 0, 0) !important
 }
 .xs-border-bottom {
