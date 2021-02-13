@@ -52,7 +52,14 @@ export default {
 #navbar {
   z-index: 999;
 }
-.titlebar .item {
+.titlebar {
+  overflow-x: none;
+  border-top: 1px solid rgb(0, 0, 0) !important
+}
+.c-4 {
+border-right: 1px solid rgb(0, 0, 0) !important
+}
+.item {
   overflow-x: none;
 }
 .results {
