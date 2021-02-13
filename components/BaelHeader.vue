@@ -8,7 +8,7 @@
       </div>
 
       <div
-        class="c-4 sm-border-bottom-none sm-border-top-none sm-border-left-none border-right xs-p2"
+        class="c-4 sm-border-bottom-none sm-border-top-none sm-border-left-none border-right border-top xs-p2"
       >
         <div class="item xs-flex">
           <lazy-bael-search />
@@ -85,6 +85,9 @@ nav {
 }
 .border-right {
   border: 1px solid rgb(0, 0, 0) !important
+}
+.border-top {
+  border-top: 1px solid rgb(0, 0, 0) !important
 }
 .xs-border-bottom {
   border: 1px solid rgb(0, 0, 0) !important
