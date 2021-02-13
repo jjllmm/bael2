@@ -7,13 +7,11 @@
         </div>
       </div>
 
-      <div
-        class="c-4 sm-border-bottom-none sm-border-top-none sm-border-left-none border-right border-top xs-p2"
-      >
+      <!--div class="c-4 sm-border-bottom-none sm-border-top-none sm-border-left-none border-right border-top xs-p2">
         <div class="item xs-flex">
           <lazy-bael-search />
         </div>
-      </div>
+      </div-->
       <div v-if="pagetitle" style="z-index:55;" class="c-12 sm-border-top xs-p2 xs-text-6 titlebar">
         <div class="item">
           <nuxt-link to="/" exact>Home</nuxt-link>
