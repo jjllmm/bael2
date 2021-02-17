@@ -24,7 +24,7 @@
           exact
         >
           <img
-            style="width:64px;"
+            style="width:180px;"
             class="xs-block xs-fit xs-mb2"
             :src="info.siteicon"
             :alt="info.sitename"
