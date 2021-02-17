@@ -5,12 +5,6 @@
   "showmenu": true,
   "emailsignup": true,
   "altlayout": false,
-  "menu": [
-    {
-      "name": "jake101",
-      "position": "1",
-      "link": "https://www.jake101.com/"
-    }
-  ],
+  "menu": [],
   "linkcolor": "#000000"
 }
