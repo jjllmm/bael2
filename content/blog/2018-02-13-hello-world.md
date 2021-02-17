@@ -1,5 +1,5 @@
 ---
-title: Welcome to Bael, a free Nuxt / NetlifyCMS powered blog template
+title: "1"
 date: Tuesday February 13th, 2018
 thumbnail: /images/uploads/bael-big.jpg
 ---
