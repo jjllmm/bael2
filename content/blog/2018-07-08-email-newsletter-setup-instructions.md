@@ -1,8 +1,8 @@
 ---
-  title: Email Newsletter Setup Instructions
-  date: Sunday July 8th, 2018
-  thumbnail: /images/uploads/email.png
-  category: Setup
+title: "2"
+date: Sunday July 8th, 2018
+thumbnail: /images/uploads/email.png
+category: Setup
 ---
  # Using the Netlify Lambda Function for Sendgrid Mailing List
 
