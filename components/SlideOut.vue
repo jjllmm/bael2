@@ -234,6 +234,8 @@ export default {
 .bael-slideout-menu-item--small {
   text-transform: uppercase;
   font-weight: 800;
+  border-bottom: 1px solid;
+  text-align: center;
 }
 
 .bael-slideout-menu-item--small a {
