@@ -105,7 +105,7 @@ footer .item:hover .footer__heading {
 .footer__heading {
   max-width: 100%;
   pointer-events: none;
-  color: rgb(116, 116, 116, 0.4);
+  color: #aaaaac;
   font-weight: 800;
   font-size: 85%;
   transition: 0.1s color ease-in-out;
