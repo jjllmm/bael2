@@ -32,10 +32,10 @@
         </nuxt-link>
       </li>
       <li class="bael-slideout-menu-item--small">
-        <nuxt-link to="/" exact>Home</nuxt-link>
+        <!--nuxt-link to="/" exact>Home</nuxt-link-->
       </li>
       <li v-if="categories.length" class="bael-slideout-menu-item--small">
-        <nuxt-link to="/categories" exact>Categories</nuxt-link>
+        <nuxt-link to="/categories" exact>Catégories</nuxt-link>
       </li>
       <li v-for="(p,i) in pages" :key="`pg-${i}`" class="bael-slideout-menu-item--small">
         <nuxt-link :to="p.path">{{p.title}}</nuxt-link>
