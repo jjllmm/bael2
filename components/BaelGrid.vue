@@ -46,6 +46,7 @@ export default {
 .bael-grid .bcg-item {
   opacity: 0;
   transition: 0.2s opacity ease-out;
+  background-color: #ffcac0;
 }
 .bael-grid .intersected.bcg-item {
   opacity: 1;
