@@ -1,5 +1,5 @@
 ---
-title: "1"
+title: Éloge de la folie
 date: Tuesday February 13th, 2018
 thumbnail: /images/uploads/bael-big.jpg
 ---
