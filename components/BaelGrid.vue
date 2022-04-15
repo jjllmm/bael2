@@ -18,7 +18,7 @@
     </div>
     <div v-else class="r full-height browse">
       <div class="xs-p2 c-100 xs-flex xs-flex-align-center xs-flex-justify-center xs-text-center">
-        <div v-if="posts.length < 1 && !busy">Ups. No results.</div>
+        <div v-if="posts.length < 1 && !busy">Ups. Rien ici.</div>
       </div>
     </div>
   </div>
