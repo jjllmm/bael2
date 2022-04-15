@@ -46,7 +46,7 @@ export default {
 .bael-grid .bcg-item {
   opacity: 0;
   transition: 0.2s opacity ease-out;
-  background-color: #aaaaac;
+  background-image: url("static/images/uploads/lily_rose_depp_x_chanel-thumb.jpg");
 }
 .bael-grid .intersected.bcg-item {
   opacity: 1;
