@@ -1,16 +1,10 @@
 ---
-title: Glossary
+title: Glossaire
 date: 2019-03-28T21:15:57.000Z
 thumbnail: ""
 ---
-#### Notions and concepts found on Hermine
+#### Notions et concepts abordés sur Hermine
 
 * Coming soon
 
 - - -
-
-## Roadmap
-
-* Glossary  
-* Bibliography
-* And more
