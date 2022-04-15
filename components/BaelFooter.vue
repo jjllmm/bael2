@@ -24,7 +24,7 @@
         :class="signupAboutSize"
       >
         <div class="item">
-          <div v-if="connectData" class="footer__heading xs-mb2">Connect</div>
+          <div v-if="connectData" class="footer__heading xs-mb2"></div>
           <ul v-if="connectData" class="list-unstyled">
             <li v-for="(c,i) in connectData" :key="i">
               <a :href="c.url">{{c.name}}</a>
