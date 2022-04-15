@@ -13,7 +13,7 @@
         </div>
       </div-->
       <div v-if="pagetitle" style="z-index:55;" class="c-12 sm-border-top xs-p2 xs-text-6 titlebar">
-        <div class="item">
+        <!--div class="item">
           <nuxt-link to="/" exact>Home</nuxt-link>
           <span v-if="path">
             &nbsp;
@@ -22,7 +22,7 @@
           </span> &nbsp;
           <span class="text-gray-lightest">></span>
           &nbsp; {{pagetitle}}
-        </div>
+        </div-->
       </div>
     </div>
   </nav>
