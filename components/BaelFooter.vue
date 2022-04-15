@@ -99,13 +99,13 @@ export default {
   font-size: 80%;
 }
 footer .item:hover .footer__heading {
-  color: rgba(119, 119, 119, 0.6);
+  color: #aaaaac;
   transition: 0.2s color ease-in-out;
 }
 .footer__heading {
   max-width: 100%;
   pointer-events: none;
-  color: #aaaaac;
+  color: rgb(116, 116, 116, 0.4);
   font-weight: 800;
   font-size: 85%;
   transition: 0.1s color ease-in-out;
