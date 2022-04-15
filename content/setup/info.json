@@ -1,10 +1,16 @@
 {
   "sitename": "HERMINE",
-  "sitedescription": "Tangent thoughts about central things",
+  "sitedescription": "Affabulations d'esprits tangents",
   "siteicon": "/images/uploads/hermine-pyd-copie.png",
   "showmenu": false,
   "emailsignup": false,
   "altlayout": false,
-  "menu": [],
+  "menu": [
+    {
+      "name": "A propos",
+      "position": "1",
+      "link": "https://zen-villani-781530.netlify.app/"
+    }
+  ],
   "linkcolor": "#000000"
 }
