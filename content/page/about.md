@@ -1,8 +1,8 @@
 ---
-title: About
+title: À propos
 date: 2018-07-07T03:00:50-07:00
 thumbnail: ""
 ---
-# Hermine periodically publishes the thoughts and reflexions of authors from different backgrounds, but that all have in common to approach intimately and in transversal ways, things they consider to be central.
+# Hermine publie périodiquement les pensées et réflexions d'auteurs d'horizons différents, mais qui ont tous en commun d'aborder de manière intime et transversale des choses qu'ils considèrent comme centrales.
 
-What now? What next? Interrogations are often expressed only after a long process of maturation. They are altered by many layers of sanitization and end up being polished to the extent of preventing anyone from branching out midway, thus eliminating any potential of transformation. Let us be allowed to be vulnerable in our thoughts, to trigger in everyone's reflexion some natural and organic developpments, hopefully resulting in many thought-resets. Hermine's proposal is to put side by side different minds in the making, and their connections.
+Et maintenant ? Et après ? Les interrogations ne s'expriment souvent qu'après un long processus de maturation. Elles sont altérées par de nombreuses couches d'aseptisation et finissent par être polies au point d'empêcher quiconque de bifurquer à mi-chemin, éliminant ainsi tout potentiel de transformation. Permettons-nous d'être vulnérables dans nos pensées, de déclencher dans la réflexion de chacun des développements naturels et organiques, qui, espérons-le, aboutiront à de nombreuses réinitialisations de la pensée. La proposition d'Hermine est de mettre côte à côte différents esprits en devenir, et leurs connexions.
