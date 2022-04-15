@@ -77,7 +77,7 @@ nav {
   color: #000;
   font-family: "Inter", sans-serif;
   text-transform: capitalize;
-  font-weight: 800;
+  font-weight: 900;
   font-size: 18px;
   letter-spacing: 2px;
 }
