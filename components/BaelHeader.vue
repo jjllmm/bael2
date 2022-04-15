@@ -12,7 +12,7 @@
           <lazy-bael-search />
         </div>
       </div-->
-      <div v-if="pagetitle" style="z-index:55;" class="c-12 sm-border-top xs-p2 xs-text-6 titlebar">
+      <div v-if="pagetitle" style="z-index:55;" class="fill-red-lighter c-12 sm-border-top xs-p2 xs-text-6 titlebar">
         <!--div class="item">
           <nuxt-link to="/" exact>Home</nuxt-link>
           <span v-if="path">
