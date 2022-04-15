@@ -2,8 +2,8 @@
   "sitename": "HERMINE",
   "sitedescription": "Tangent thoughts about central things",
   "siteicon": "/images/uploads/hermine-pyd-copie.png",
-  "showmenu": true,
-  "emailsignup": true,
+  "showmenu": false,
+  "emailsignup": false,
   "altlayout": false,
   "menu": [],
   "linkcolor": "#000000"
