@@ -40,10 +40,10 @@
       <li v-for="(p,i) in pages" :key="`pg-${i}`" class="bael-slideout-menu-item--small">
         <nuxt-link :to="p.path">{{p.title}}</nuxt-link>
       </li>
-      <!--li v-if="info.menu" class="xs-mt5 bael-slideout-menu-item heading-font">Links</li>
+      <li v-if="info.menu" class="xs-mt5 bael-slideout-menu-item heading-font"></li>
       <li v-for="m in info.menu" :key="m.position" class="bael-slideout-menu-item--small">
         <a :href="m.link">{{m.name}}</a>
-      </li-->
+      </li>
     </ul>
   </div>
 </template>
