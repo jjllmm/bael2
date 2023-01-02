@@ -192,7 +192,7 @@ export default {
   right: 0;
   top: 0;
   width: auto;
-  min-width: 1O80px;
+  min-width: 1080px;
   height: 100vh;
   z-index: 1000;
   background-color: #000;
