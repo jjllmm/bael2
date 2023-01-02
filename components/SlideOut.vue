@@ -246,16 +246,16 @@ export default {
   padding: 0.5rem 0.3rem;
   &:hover {
     XXXXbackground: var(--hover-bg);
-    color: #fff;
+    color: #fff !important;
   }
   &:focus,
   :active {
     XXXXbackground: var(--active-bg);
     text-decoration: underline;
-    color: #fff;
+    color: #fff !important;
   }
 }
 .bael-slideout-menu-item--small a:hover {
-  text-decoration: none;
+  XXXXtext-decoration: none;
 }
 </style>
