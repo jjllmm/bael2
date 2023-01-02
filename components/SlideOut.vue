@@ -195,7 +195,7 @@ export default {
   min-width: 180px;
   height: 100vh;
   z-index: 1000;
-  background-color: #fff;
+  background-color: #000;
   transform: translate3D(100%, 0, 0);
   transition: transform 0.6s;
 
@@ -239,7 +239,7 @@ export default {
 }
 
 .bael-slideout-menu-item--small a {
-  color: black !important;
+  color: white !important;
   cursor: pointer;
   display: block;
   padding: 0.5rem 0.3rem;
