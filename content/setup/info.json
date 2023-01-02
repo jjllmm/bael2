@@ -4,7 +4,7 @@
   "siteicon": "/images/uploads/hermine-pyd-copie.png",
   "showmenu": false,
   "emailsignup": false,
-  "altlayout": false,
+  "altlayout": true,
   "menu": [
     {
       "name": "A propos",
