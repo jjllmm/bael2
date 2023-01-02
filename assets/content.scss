@@ -14,14 +14,14 @@
     a,
     {
       font-weight: bold;
-      color: #000;
+      color: #000 !important;
     }
     
     
     a:visited {
       text-decoration: underline;
       font-weight: bold;
-      color: #000;
+      color: #000 !important;
     }
 
     a[href]:after {
