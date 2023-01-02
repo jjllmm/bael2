@@ -2,7 +2,7 @@
   "sitename": "HERMINE",
   "sitedescription": "Affabulations d'esprits tangents",
   "siteicon": "/images/uploads/hermine-pyd-copie.png",
-  "showmenu": false,
+  "showmenu": true,
   "emailsignup": false,
   "altlayout": false,
   "menu": [
