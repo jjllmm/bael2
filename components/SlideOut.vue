@@ -240,7 +240,7 @@ export default {
 
 .bael-slideout-menu-item--small a {
   color: white !important;
-  font-size: 70px;
+  font-size: 50px;
   cursor: pointer;
   display: block;
   padding: 0.5rem 0.3rem;
@@ -251,6 +251,7 @@ export default {
   &:focus,
   :active {
     background: var(--active-bg);
+    backgound: none !important;
     text-decoration: none;
   }
 }
