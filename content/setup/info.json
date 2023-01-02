@@ -7,8 +7,13 @@
   "altlayout": false,
   "menu": [
     {
-      "name": "A propos",
+      "name": "Accueil",
       "position": "1",
+      "link": "https://zen-villani-781530.netlify.app/"
+    },
+    {
+      "name": "A propos",
+      "position": "2",
       "link": "https://zen-villani-781530.netlify.app/"
     }
   ],
