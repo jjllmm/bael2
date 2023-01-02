@@ -245,13 +245,14 @@ export default {
   display: block;
   padding: 0.5rem 0.3rem;
   &:hover {
-    background: var(--hover-bg);
+    XXXXbackground: var(--hover-bg);
     color: #fff;
   }
   &:focus,
   :active {
-    background: var(--active-bg);
+    XXXXbackground: var(--active-bg);
     text-decoration: underline;
+    color: #fff;
   }
 }
 .bael-slideout-menu-item--small a:hover {
