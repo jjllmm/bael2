@@ -192,7 +192,7 @@ export default {
   right: 0;
   top: 0;
   width: auto;
-  min-width: 180px;
+  min-width: 1O80px;
   height: 100vh;
   z-index: 1000;
   background-color: #000;
@@ -233,8 +233,8 @@ export default {
 .bael-slideout-menu-item,
 .bael-slideout-menu-item--small {
   text-transform: uppercase;
-  font-weight: 800;
-  border-bottom: 1px solid;
+  font-weight: 900;
+  border-bottom: 0px solid;
   text-align: center;
 }
 
