@@ -48,6 +48,11 @@ export default {
   transition: 0.2s opacity ease-out;
   letter-spacing: 0.7px;
 }
+
+.bcg-item a {
+  color: #000 !important;
+}
+
 .bael-grid .intersected.bcg-item {
   opacity: 1;
   transition: 0.2s opacity ease-out;
