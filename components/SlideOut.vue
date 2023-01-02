@@ -223,7 +223,7 @@ export default {
 }
 
 .bael-slideout-menu {
-  font-weight: 400;
+  font-weight: 500;
   transition: transform 0.6s ease(out-cubic);
   .menu-logo {
     padding: 0.5rem 0.3rem;
@@ -238,18 +238,20 @@ export default {
 }
 
 .bael-slideout-menu-item--small a {
-  color: white !important;
-  font-size: 50px;
+  color: #f1f1f1 !important;
+  font-size: 40px;
+  font-style: bold;
   cursor: pointer;
   display: block;
   padding: 0.5rem 0.3rem;
   &:hover {
     background: var(--hover-bg);
+    color: #fff;
   }
   &:focus,
   :active {
     background: var(--active-bg);
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 .bael-slideout-menu-item--small a:hover {
