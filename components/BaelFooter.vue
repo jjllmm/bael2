@@ -1,5 +1,5 @@
 <template>
-  <footer class="fill-red-lighter xs-text-6 md-text-5">
+  <footer class="fill-white xs-text-6 md-text-5">
     <div class="r no-gap">
       <div v-if="pagination.active" class="c-12 xs-text-left xs-p2">
         <lazy-bael-pagination :pagination="pagination" />
