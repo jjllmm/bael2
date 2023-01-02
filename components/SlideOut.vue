@@ -238,7 +238,7 @@ export default {
 }
 
 .bael-slideout-menu-item--small a {
-  color: #f1f1f1 !important;
+  color: #999 !important;
   font-size: 40px;
   font-style: bold;
   cursor: pointer;
