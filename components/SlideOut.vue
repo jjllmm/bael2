@@ -192,7 +192,7 @@ export default {
   right: 0;
   top: 0;
   width: auto;
-  min-width: 1080px;
+  min-width: 360px;
   height: 100vh;
   z-index: 1000;
   background-color: #000;
@@ -201,7 +201,7 @@ export default {
 
   &.isOpen {
     transform: translate3D(0, 0, 0);
-    transition: transform 0.6s;
+    transition: transform 0.2s;
   }
 }
 
@@ -224,7 +224,7 @@ export default {
 
 .bael-slideout-menu {
   font-weight: 600;
-  transition: transform 1.6s ease(out-cubic);
+  transition: transform 0.6s ease(out-cubic);
   .menu-logo {
     padding: 0.5rem 0.3rem;
   }
@@ -240,11 +240,13 @@ export default {
 
 .bael-slideout-menu-item--small a {
   color: white !important;
+  font-size: 70px;
   cursor: pointer;
   display: block;
   padding: 0.5rem 0.3rem;
   &:hover {
     background: var(--hover-bg);
+    backgound: none !important;
   }
   &:focus,
   :active {
