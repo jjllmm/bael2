@@ -223,7 +223,7 @@ export default {
 }
 
 .bael-slideout-menu {
-  font-weight: 600;
+  font-weight: 400;
   transition: transform 0.6s ease(out-cubic);
   .menu-logo {
     padding: 0.5rem 0.3rem;
@@ -233,7 +233,6 @@ export default {
 .bael-slideout-menu-item,
 .bael-slideout-menu-item--small {
   text-transform: uppercase;
-  font-weight: 900;
   border-bottom: 0px solid;
   text-align: center;
 }
@@ -246,12 +245,10 @@ export default {
   padding: 0.5rem 0.3rem;
   &:hover {
     background: var(--hover-bg);
-    backgound: none !important;
   }
   &:focus,
   :active {
     background: var(--active-bg);
-    backgound: none !important;
     text-decoration: none;
   }
 }
