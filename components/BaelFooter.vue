@@ -51,7 +51,7 @@
       </div>
       <div class="c-12 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none">
         <div class="item xs-text-6">
-          <a href="#">Hermine</a>
+          Hermine
            © 2021
         </div>
       </div>
