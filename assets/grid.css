@@ -63,7 +63,7 @@ body {
 
 .r {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(16, 1fr);
   grid-gap: 10px;
 }
 .no-gap {
@@ -103,7 +103,7 @@ iframe {
     grid-column: span 9;
   }
   .c-100 {
-    grid-column: span 16;
+    grid-column: span 12;
   }
 
   .c-1 {
@@ -169,7 +169,7 @@ iframe {
     grid-column: span 9;
   }
   .c-100 {
-    grid-column: span 16;
+    grid-column: span 12;
   }
 }
 
