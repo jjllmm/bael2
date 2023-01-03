@@ -140,6 +140,21 @@ export default {
 };
 </script>
 
+<script>
+var createBlueDots = function () {
+       for (var i = 0; i <=someRandomNum; i++) {
+        context.beginPath();
+        var rand_x = Math.random(i) * horz_max;
+        var rand_y = Math.random(i) * vertical_max;
+        context.arc(rand_x, rand_y, radius, 1, 2*Math.PI);
+        context.fillStyle ="#000";
+        context.fill();
+        context.closePath();   
+        }
+    }
+createBlueDots();
+</script>
+
 <style>
 img[lazy="loading"] {
   opacity: 0;
