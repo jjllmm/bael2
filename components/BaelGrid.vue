@@ -42,6 +42,8 @@ export default {
 };
 </script>
 
+<script src="sketch.js"></script>
+
 <style>
 .bael-grid .bcg-item {
   opacity: 0;
