@@ -82,13 +82,13 @@ nav {
   letter-spacing: 2px;
 }
 .border-right {
-  border-right: 1px solid rgb(0, 0, 0) !important
+  border-right: 2px solid rgb(0, 0, 0) !important
 }
 .border-top {
-  border-top: 1px solid rgb(0, 0, 0) !important
+  border-top: 2px solid rgb(0, 0, 0) !important
 }
 .xs-border-bottom {
-  border: 1px solid rgb(0, 0, 0) !important
+  border: 2px solid rgb(0, 0, 0) !important
 }
 .sm-border-bottom-none {
   border-bottom: none !important
