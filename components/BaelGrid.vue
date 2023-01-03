@@ -51,6 +51,7 @@ export default {
 
 .bcg-item a {
   color: #000 !important;
+  font-weight: bold;
 }
 
 .bael-grid .intersected.bcg-item {
