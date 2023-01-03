@@ -53,33 +53,7 @@ export default {
 };
 </script>
 
-<script>
-  export default {
-    head() {
-      return {
-        script: [
-          {
-            src: 'https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js'
-          }
-        ],
-      }
-    }
-  }
-</script>
 
-<script>
-  export default {
-    head() {
-      return {
-        script: [
-          {
-            src: '/sketch.js'
-          }
-        ],
-      }
-    }
-  }
-</script>
 
 
 <style>
