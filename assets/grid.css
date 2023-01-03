@@ -169,7 +169,7 @@ iframe {
     grid-column: span 9;
   }
   .c-100 {
-    grid-column: span 12;
+    grid-column: span 16;
   }
 }
 
