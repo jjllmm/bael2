@@ -169,17 +169,18 @@ $(document).ready(function(){
 </script>
 
 <style>
-body
-  background-color: #ddd
-  height: 100vh
-  width: 100%
-  position: relative
+body {
+  background-color: #ddd;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  }
   
-  
-.box
-  background-color: #000
-  position: fixed
-  border-radius: 50%
+.box {
+  background-color: #000;
+  position: fixed;
+  border-radius: 50%;
+  }
 
 </style>
 
