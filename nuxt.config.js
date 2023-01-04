@@ -28,17 +28,6 @@ module.exports = {
     ]
   },
   
-  script: [
-      {
-        src: "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js",
-        type: "text/javascript"
-      },
-    {
-        src: "/sketch.js",
-        type: "text/javascript"
-      }
-    ]
-  },
   
   css: ["@/assets/grid.css", "@/assets/content.scss", "bf-solid/dist/solid.latest.css"],
   // icon: {
