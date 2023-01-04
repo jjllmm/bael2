@@ -28,6 +28,10 @@ module.exports = {
     ]
   },
   
+  script: [
+  { src: '/js/dots.js' },
+]
+},
   
   css: ["@/assets/grid.css", "@/assets/content.scss", "bf-solid/dist/solid.latest.css"],
   // icon: {
