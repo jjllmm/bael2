@@ -27,6 +27,19 @@ module.exports = {
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700;800&display=swap' }
     ]
   },
+  
+  script: [
+      {
+        src: "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js",
+        type: "text/javascript"
+      },
+    {
+        src: "/sketch.js",
+        type: "text/javascript"
+      }
+    ]
+  },
+  
   css: ["@/assets/grid.css", "@/assets/content.scss", "bf-solid/dist/solid.latest.css"],
   // icon: {
   //   iconSrc: `${siteInfo.siteicon}`
