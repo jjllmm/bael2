@@ -29,7 +29,7 @@ module.exports = {
   },
   
   script: [
-  { src: '/js/dots.js' },
+  { src: '/js/dots.js', type: "text/javascript" },
 ],
   
   css: ["@/assets/grid.css", "@/assets/content.scss", "bf-solid/dist/solid.latest.css"],
