@@ -37,6 +37,16 @@ export default {
     pagetitle() {
       return this.$store.state.current.title;
     },
+    
+    head() {
+      return {
+        script: [
+          {
+             src: '/js/createDots.js'
+          }
+        ],
+      }
+    },
 
     path() {
       const split = _get(this.$store, "state.current.dir").split("/");
