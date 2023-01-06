@@ -6,7 +6,7 @@ function createDot(x, y) {
     return elem;
 }
 function anotherDot() {
-    createDot(Math.floor(Math.random()*50), Math.floor(Math.random()*50));
+    createDot(Math.floor(Math.random()*80), Math.floor(Math.random()*80));
 }
 
 for(var i=0;i<128;i++) {
