@@ -60,7 +60,7 @@ export default {
     position: absolute;
     width: 3.5px;
     height: 3.5px;
-    background: black;
+    background: #0092ff;
 }
 
 .bael-grid .bcg-item {
