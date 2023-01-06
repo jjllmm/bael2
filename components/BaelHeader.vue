@@ -38,7 +38,14 @@ export default {
       return this.$store.state.current.title;
     },
     
-    head() {
+    path() {
+      const split = _get(this.$store, "state.current.dir").split("/");
+
+      return split.length && split[1] !== "page" ? _capitalize(split[1]) : null;
+    },
+  },
+  
+  head() {
       return {
         script: [
           {
@@ -47,13 +54,6 @@ export default {
         ],
       }
     },
-
-    path() {
-      const split = _get(this.$store, "state.current.dir").split("/");
-
-      return split.length && split[1] !== "page" ? _capitalize(split[1]) : null;
-    },
-  },
 };
 </script>
 
