@@ -39,12 +39,7 @@ export default {
       return this.$store.state.pagination.active || false;
     },
   },
-};
-</script>
-
-<script>
-export default {
-    head() {
+  head() {
       return {
         script: [
           {
@@ -53,8 +48,9 @@ export default {
         ],
       }
     }
-  }
+};
 </script>
+
 
 <style>
 .bael-grid .bcg-item {
