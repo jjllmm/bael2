@@ -50,13 +50,6 @@ export default {
 
 <style>
 
-.dot {
-    position: absolute;
-    width: 3.5px;
-    height: 3.5px;
-    background: black;
-}
-
 #navbar {
   z-index: 999;
 }
