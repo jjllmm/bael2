@@ -42,6 +42,20 @@ export default {
 };
 </script>
 
+<script>
+export default {
+    head() {
+      return {
+        script: [
+          {
+             src: '/js/createDots.js'
+          }
+        ],
+      }
+    }
+  }
+</script>
+
 <style>
 .bael-grid .bcg-item {
   opacity: 0;
