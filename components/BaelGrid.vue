@@ -39,15 +39,7 @@ export default {
       return this.$store.state.pagination.active || false;
     },
   },
-  head() {
-      return {
-        script: [
-          {
-             src: '/js/createDots.js'
-          }
-        ],
-      }
-    }
+
 };
 </script>
 
