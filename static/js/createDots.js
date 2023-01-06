@@ -9,6 +9,6 @@ function anotherDot() {
     createDot(Math.floor(Math.random()*200), Math.floor(Math.random()*200));
 }
 
-for(var i=0;i<128;i++) {
+for(var i=0;i<56;i++) {
     anotherDot();
 }
