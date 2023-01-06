@@ -44,7 +44,15 @@ export default {
       return split.length && split[1] !== "page" ? _capitalize(split[1]) : null;
     },
   },
-  
+    head() {
+      return {
+        script: [
+          {
+             src: '/js/createDots.js'
+          }
+        ],
+      }
+    },
 };
 </script>
 
