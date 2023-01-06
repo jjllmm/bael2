@@ -61,8 +61,8 @@ export default {
 
 .dot {
     position: absolute;
-    width: 2.5px;
-    height: 2.5px;
+    width: 3px;
+    height: 3px;
     background: black;
 }
 
