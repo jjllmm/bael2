@@ -59,13 +59,6 @@ export default {
   letter-spacing: 0.7px;
 }
 
-.dot {
-    position: absolute;
-    width: 3.5px;
-    height: 3.5px;
-    background: black;
-}
-
 
 .bcg-item a {
   color: #000 !important;
