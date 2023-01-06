@@ -55,6 +55,14 @@ export default {
 
 
 <style>
+
+.dot {
+    position: absolute;
+    width: 3.5px;
+    height: 3.5px;
+    background: black;
+}
+
 .bael-grid .bcg-item {
   opacity: 0;
   transition: 0.2s opacity ease-out;
