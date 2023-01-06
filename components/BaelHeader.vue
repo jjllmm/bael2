@@ -45,15 +45,6 @@ export default {
     },
   },
   
-  head() {
-      return {
-        script: [
-          {
-             src: '/js/createDots.js'
-          }
-        ],
-      }
-    },
 };
 </script>
 
