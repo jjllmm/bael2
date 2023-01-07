@@ -114,7 +114,7 @@ footer .item:hover .footer__heading {
   pointer-events: none;
 }
 .xs-border {
-  border: 2px solid rgb(0, 0, 0) !important
+  border: 1.5px solid rgb(0, 0, 0) !important
 }
 .xs-border-right-none {
   border-left: none !important
