@@ -60,9 +60,7 @@ export default {
     position: absolute;
     width: 6px;
     height: 6px;
-    background: #fff;
-    border: 2px solid;
-    border-color: #000;
+    background: #87ceeb;
     border-radius:100%;
 }
 
