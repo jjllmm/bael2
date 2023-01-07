@@ -12,6 +12,6 @@ function anotherDot() {
     setTimeout(anotherDot, 5000);
 }
 
-for(var i=0;i<16;i++) {
+for(var i=0;i<1;i++) {
     anotherDot();
 }
