@@ -58,8 +58,8 @@ export default {
 
 .dot {
     position: absolute;
-    width: 4px;
-    height: 4px;
+    width: 6px;
+    height: 6px;
     background: #000000;
     border-radius:100%
 }
