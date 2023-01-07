@@ -1,14 +1,14 @@
 function createDot(x, y) {
     var elem=document.createElement("div");
-    var abc=40;
-    var cdg=1000;
     elem.setAttribute("class", "dot");
     elem.setAttribute("style", "left:"+x+"px;top:"+y+"px;");
     document.getElementsByTagName("body")[0].appendChild(elem);
     return elem;
 }
 function anotherDot() {
-    createDot(Math.floor(Math.random()*abc), Math.floor(Math.random()*cdg));
+    let width=window.innerWidth;
+    let height=window.innerHeight;
+    createDot(Math.floor(Math.random()*width), Math.floor(Math.random()*height));
 }
 
 for(var i=0;i<56;i++) {
