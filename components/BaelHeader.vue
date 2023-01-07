@@ -91,7 +91,7 @@ nav {
   border-top: 1.5px solid rgb(0, 0, 0) !important
 }
 .xs-border-bottom {
-  border: 2px solid rgb(0, 0, 0) !important
+  border: 1.5px solid rgb(0, 0, 0) !important
 }
 .sm-border-bottom-none {
   border-bottom: none !important
