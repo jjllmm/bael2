@@ -1,4 +1,4 @@
-window.onload = function createDot(x, y) {
+function createDot(x, y) {
     var elem=document.createElement("div");
     elem.setAttribute("class", "dot");
     elem.setAttribute("style", "left:"+x+"px;top:"+y+"px;");
