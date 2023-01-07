@@ -9,6 +9,7 @@ function anotherDot() {
     let width=window.innerWidth;
     let height=window.innerHeight;
     createDot(Math.floor(Math.random()*width), Math.floor(Math.random()*height));
+    setTimeout(anotherDot, 5000);
 }
 
 for(var i=0;i<16;i++) {
