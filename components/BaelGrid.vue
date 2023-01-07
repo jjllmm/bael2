@@ -58,9 +58,10 @@ export default {
 
 .dot {
     position: absolute;
-    width: 3.5px;
-    height: 3.5px;
+    width: 4px;
+    height: 4px;
     background: #000000;
+    border-radius:100%
 }
 
 .bael-grid .bcg-item {
