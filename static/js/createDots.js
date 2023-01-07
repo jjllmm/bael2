@@ -11,6 +11,6 @@ function anotherDot() {
     createDot(Math.floor(Math.random()*width), Math.floor(Math.random()*height));
 }
 
-for(var i=0;i<56;i++) {
+for(var i=0;i<16;i++) {
     anotherDot();
 }
