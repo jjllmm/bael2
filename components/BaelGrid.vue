@@ -61,7 +61,7 @@ export default {
     width: 6px;
     height: 6px;
     background: #fff;
-    border: 3px solid;
+    border: 2px solid;
     border-color: #000;
     border-radius:100%;
 }
