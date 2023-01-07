@@ -6,7 +6,7 @@ window.onload = function createDot(x, y) {
     return elem;
 }
 
-window.onload = function anotherDot() {
+function anotherDot() {
     let width=window.innerWidth;
     let height=window.innerHeight;
     createDot(Math.floor(Math.random()*width), Math.floor(Math.random()*height));
