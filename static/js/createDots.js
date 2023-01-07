@@ -1,7 +1,7 @@
 function createDot(x, y) {
     var elem=document.createElement("div");
     elem.setAttribute("class", "dot");
-    elem.setAttribute("style", "left:"+x+"10px;top:"+y+"10px;");
+    elem.setAttribute("style", "left:"+x+"1px;top:"+y+"1px;");
     document.getElementsByTagName("body")[0].appendChild(elem);
     return elem;
 }
