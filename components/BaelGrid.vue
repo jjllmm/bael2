@@ -82,10 +82,10 @@ export default {
 }
 
 .xs-border-right {
-  border-right: 2px solid rgb(0, 0, 0) !important
+  border-right: 1.5px solid rgb(0, 0, 0) !important
 }
 .xs-border-bottom {
-  border-bottom: 2px solid rgb(0, 0, 0) !important
+  border-bottom: 1.5px solid rgb(0, 0, 0) !important
 }
 .xs-border-top-none {
   border-top: none !important
