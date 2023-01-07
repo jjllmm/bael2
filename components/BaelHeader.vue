@@ -55,7 +55,7 @@ export default {
 }
 .titlebar {
   overflow-x: none;
-  border-top: 2px solid rgb(0, 0, 0) !important
+  border-top: 1.5px solid rgb(0, 0, 0) !important
 }
 .item {
   overflow-x: none;
