@@ -257,5 +257,10 @@ export default {
 }
 .bael-slideout-menu-item--small a:hover {
   XXXXtext-decoration: none;
+  
+}
+.menu-logo {
+  text-align: center !important;
+  
 }
 </style>
