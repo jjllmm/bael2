@@ -8,7 +8,7 @@
         </div>
       </div>
 
-      <div class="c-4 sm-border-bottom-none sm-border-top-none sm-border-left-none border-right border-top xs-p2">
+      <div class="c-4 sm-border-bottom-none sm-border-left-none border-right border-top xs-p2">
         <div class="item xs-flex">
           <lazy-bael-search />
         </div>
@@ -98,7 +98,7 @@ nav {
   border-bottom: none !important
 }
 .sm-border-top-none {
-  XXXXborder-top: none !important
+  border-top: none !important
 }
 .sm-border-left-none {
   border-left: none !important
