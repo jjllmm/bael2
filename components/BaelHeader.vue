@@ -98,10 +98,10 @@ nav {
   border-bottom: none !important
 }
 .sm-border-top-none {
-  border-top: none !important
+  XXXXborder-top: none !important
 }
 .sm-border-left-none {
-  XXXXborder-left: none !important
+  border-left: none !important
 }
 @media only screen and (max-width: 40rem) {
   .results {
