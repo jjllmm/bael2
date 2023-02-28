@@ -1,8 +1,8 @@
 {
   "sitename": "Hermine editions",
   "sitedescription": "Affabulations d'esprits tangents",
-  "siteicon": "/images/uploads/hermine-pyd-copie.png",
-  "showmenu": false,
+  "siteicon": "/images/uploads/herminebiglogo.png",
+  "showmenu": true,
   "emailsignup": false,
   "altlayout": false,
   "menu": [
