@@ -220,6 +220,13 @@ nav .r {
   height: calc(100vh - var(--nav-height) - 70px);
   margin-top: var(--nav-height);
 }
+
+.pagination__button pagination__button--next
+{
+  border-right: 1px !important;
+  
+}
+
 @media only screen and (max-width: 40rem) {
   :root {
     --nav-height: 104px;
