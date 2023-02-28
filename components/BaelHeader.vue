@@ -101,7 +101,7 @@ nav {
   border-top: none !important
 }
 .sm-border-left-none {
-  border-left: none !important
+  XXXXborder-left: none !important
 }
 @media only screen and (max-width: 40rem) {
   .results {
