@@ -6,12 +6,12 @@
       </span>
 
       <div class="pagination">
-        <!-- <nuxt-link
+        < <nuxt-link
                     :to="`/p/${parseInt(this.pagination.page) - 1}`"
                 tag="button"
                 :class="{ 'pagination__button--disabled': this.prevpage <= 0 }"
                 class="pagination__button pagination__button--prev"
-        >-->
+        >>
         <nuxt-link
         exact
           :to="backButton"
