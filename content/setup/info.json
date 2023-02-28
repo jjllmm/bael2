@@ -3,7 +3,7 @@
   "sitedescription": "Affabulations d'esprits tangents",
   "siteicon": "/images/uploads/herminebiglogo.png",
   "showmenu": true,
-  "emailsignup": false,
+  "emailsignup": true,
   "altlayout": false,
   "menu": [
     {
