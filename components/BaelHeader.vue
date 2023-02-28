@@ -8,7 +8,7 @@
           <nuxt-img
             style="width:180px;"
             class="xs-block xs-fit xs-mb2"
-            :src="info.siteicon"
+            :src=/static/images/uploads/herminebiglogo.png
             :alt="info.sitename"
           />
         
